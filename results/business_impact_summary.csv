@@ -1,0 +1,10 @@
+,0
+total_failed_transactions,8000.0
+total_failed_value,24232492.91
+ai_recovery_rate,0.5079
+baseline_recovery_rate,0.3081
+recovery_rate_lift_pct_points,19.97
+ai_recovered_value,11664235.58
+baseline_recovered_value,6744186.78
+incremental_revenue_recovered,4920048.8
+incremental_revenue_pct_of_total_failed,20.3
